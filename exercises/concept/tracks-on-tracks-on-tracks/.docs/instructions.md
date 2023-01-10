@@ -54,7 +54,7 @@ reverseList ["Prolog"; "C"; "Idris"; "Assembly"]
 While you love all languages, F# has a special place in your heart. As such, you're really excited about a list of languages if:
 
 - The first on the list is F#.
-- The second item on the list is F# and the list contain either two or three languages.
+- The second item on the list is F# and the list contains either two or three languages.
 
 Implement the `excitingList` function to check if a list of languages is exciting:
 
