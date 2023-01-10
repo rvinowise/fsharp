@@ -6,7 +6,7 @@ You have six tasks, which will all involve dealing with lists.
 
 ## 1. Create a new list
 
-To keep track of the languages you want to learn, you'll need to create an new list. Define the `newList` binding that contains a new, empty list.
+To keep track of the languages you want to learn, you'll need to create a new list. Define the `newList` binding that contains a new, empty list.
 
 ```fsharp
 newList
